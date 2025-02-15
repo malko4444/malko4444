@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @malko4444
+- 👋 Hi, I’m Muammad zubair shehzad
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-malko4444/malko4444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Zubair shehzad /zubair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
