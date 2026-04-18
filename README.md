@@ -1,68 +1,117 @@
-# 👋 Hi, I’m Muhammad Zubair Shehzad
+<!-- Banner -->
+<img src="https://i.ibb.co/7J0q0Bd/black-banner.png" width="100%"/>
 
-### 💻 MERN Stack Developer | 🧪 QA Engineer | ⚙️ Backend Developer  
-Passionate about building scalable web apps and delivering bug-free user experiences.
-
----
-
-## 👀 I’m Interested In  
-- Full-stack web development (MERN)  
-- Next.js & modern frontend engineering  
-- AI-powered platforms  
-- E-commerce systems & dashboards  
-- Software testing & quality assurance  
-- Backend development using Node.js, NestJS & Python  
+<h1 align="center">👋 Hi, I'm <span style="color:#4fc3f7;">Muhammad Zubair Shehzad</span></h1>
+<h3 align="center">MERN Stack Developer • QA Engineer • Backend Developer</h3>
 
 ---
 
-## 🌱 I’m Currently Learning  
-- Advanced Next.js features (Server Actions, App Router)  
-- AI integrations into real-world applications  
-- Automated testing (Selenium, Playwright)  
-- Cloud deployment & CI/CD pipelines  
+## 🚀 About Me  
+I'm a passionate **MERN Stack Developer & QA Engineer** who loves building modern, scalable, and user-focused web applications. From crafting UIs to architecting backends and performing detailed testing — I deliver clean, efficient, and reliable products.
+
+- 🔭 Currently working as **QA Tester at Voltic Inc**
+- 🌱 Learning **Advanced Next.js Features & Automation Testing**
+- 👯 Open to collaborating on **MERN, Next.js & AI-based applications**
+- 💬 Ask me about **React, Next.js, Node.js, MongoDB, NestJS & QA Testing**
+- 📫 Reach me at **itxzubair45@gmail.com**
+- ⚡ Fun fact: *I enjoy debugging as much as building 🚀*
 
 ---
 
-## 💞️ I’m Looking to Collaborate On  
-- MERN stack projects  
-- Next.js frontend development  
-- Startup MVP development  
-- AI-based student–mentor platforms  
-- E-commerce systems with admin panels  
+## 🛠️ Tech Stack & Tools
+
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap" />
+</p>
+
+### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python" />
+</p>
+
+### **Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
+
+### **Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
 
 ---
 
-## 📫 How to Reach Me  
-- **Email:** itxzubair45@gmail.com  
-- **LinkedIn:** [linkedin.com/in/muhammad-zubair-shehzad-b392062aa](https://www.linkedin.com/in/muhammad-zubair-shehzad-b392062aa)  
+## 📌 Featured Projects
+
+### 🔹 **Linkedify – Next.js Navigation Platform**
+A clean and minimal Next.js frontend project helping users navigate efficiently.  
+➡️ *Next.js | Tailwind | Routing*
 
 ---
 
-## 🧑‍💻 Tech Stack  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express.js, NestJS, Python  
-**Database:** MongoDB, Firebase  
-**Tools:** Postman, Git, GitHub  
-**Testing:** Manual Testing, Test Cases, Bug Reports, QA Documentation  
+### 🔹 **Mentor AI Platform**
+AI-powered platform connecting students to mentors based on smart recommendation logic.  
+➡️ *MERN + AI Integration*
 
 ---
 
-## 😄 Pronouns  
-He/Him  
+### 🔹 **E-Commerce Guider (Vendor Recommendation System)**
+Admin panel + vendor mapping system suggesting vendors based on product categories.  
+➡️ *MERN | Admin Panel | Smart Matching*
 
 ---
 
-## ⚡ Fun Fact  
-I can spend hours debugging — not because I’m stuck, but because I enjoy understanding *exactly why* the bug exists 😄
+### 🔹 **Watch Store E-Commerce**
+E-commerce site with admin product upload and add-to-cart functionality.  
+➡️ *MERN | Admin Dashboard*
 
 ---
 
-## 🚀 Highlight Projects  
-- **Linkedify** — Navigation-based Next.js web app  
-- **Mentor AI Platform** — AI system connecting students with mentors  
-- **E-Commerce Guider** — Vendor recommendation system + admin panel  
-- **Watch Store** — E-commerce site with admin panel & cart system  
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Zubair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zubair-shehzad&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zubair-shehzad&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-> “Code with logic, test with purpose, ship with confidence.”  
+## 🔥 GitHub Streak
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Zubair-shehzad&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Zubair-shehzad&theme=tokyonight&margin-w=10&no-frame=true)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:itxzubair45@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-zubair-shehzad-b392062aa/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+</p>
+
+---
+
+## 💬 Quote  
+> “Code with logic, test with purpose, and ship with confidence.”
+
+---
+
+<img src="https://i.ibb.co/7J0q0Bd/black-banner.png" width="100%"/>
